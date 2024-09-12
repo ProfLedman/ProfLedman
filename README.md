@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProfLedman
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning R and Tableau
+- 🌱 I’m a data analyst with expertise in Python, R, SQL, SPSS, and PowerBI
 - 💞️ I’m looking to collaborate on data science projects including analysis and visualization
 - 📫 How to reach me ledamakelvin99@gmail.com +254703234269
 
